@@ -1,0 +1,22 @@
+{
+  "wheel_id": 787,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-114",
+  "project": "retaining-wall-builders-toowoomba-suburb-guide-a963a51dc3f44ad0",
+  "parent_t1_ref": "retainingwallstoowoomba-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall builders toowoomba suburb guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-toowoomba-suburb-guide-a963a51dc3f44ad0/",
+  "tier": "T2",
+  "writeback_nonce": "e70b0a508df92675",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallstoowoomba-156/",
+      "anchor": "Retaining Wall Builders Toowoomba Signs You Need: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
